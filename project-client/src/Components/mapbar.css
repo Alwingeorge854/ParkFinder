@@ -1,0 +1,9 @@
+.mapbar{
+    height: 70vh;
+    width: auto;
+    background-color: #282c3460;
+    border: 0.5px solid #282c34;
+    border-radius: 25px;
+    margin: 1rem;
+    padding: 1rem;
+}
